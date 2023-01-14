@@ -24,3 +24,13 @@ p {
     text-align: center;
     margin-top: 4em;
 }
+
+section {
+    clear: left;
+}
+
+.titulo-centralizado {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 6.5em;
+}
