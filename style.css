@@ -23,14 +23,19 @@ img {
 p {
     text-align: center;
     margin-top: 4em;
+    font-size: 17px;
 }
 
 section {
     clear: left;
 }
 
-.titulo-centralizado {
+h3 {
     text-align: center;
     font-size: 30px;
     margin-top: 6.5em;
+}
+
+li {
+    font-weight: bold;
 }
